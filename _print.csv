@@ -1,45 +1,47 @@
 ﻿minPoints;eps;adsCount;networkLength;avgLenPerAds;ruute;elanike_arv;asustus
-30;50;517;45379;88;26;3963;Harju maakond, Anija vald, Arava küla - Kaunissaare küla - Kehra küla - Kehra linn - Lehtmetsa küla - Looküla - Paasiku küla - Pikva küla - Salumetsa küla - Ülejõe küla
-30;50;36;2032;56;3;0;Harju maakond, Anija vald, Arava küla - Pikva küla
-20;500;211;19914;94;15;1594;Harju maakond, Anija vald, Kihmla küla - Parila küla - Salumäe küla - Raasiku alevik - Tõhelgi küla
-20;500;213;17961;84;15;2649;Harju maakond, Kose vald, Ahisilla küla - Kose alevik - Krei küla - Liiva küla - Võlle küla
-30;50;86;7852;91;6;1133;Harju maakond, Kose vald, Kose-Uuemõisa alevik - Krei küla - Tade küla
-20;500;52;1838;35;1;42;Harju maakond, Kose vald, Krei küla
-20;500;124;10029;81;6;95;Harju maakond, Kuusalu vald, Andineeme küla - Põhja küla - Sõitme küla
-30;50;60;5049;84;6;58;Harju maakond, Kuusalu vald, Hara küla
-20;500;40;2478;62;3;8;Harju maakond, Kuusalu vald, Hara küla - Virve küla
-20;500;66;6302;95;6;196;Harju maakond, Kuusalu vald, Mäepea küla - Põhja küla - Salmistu küla
-20;500;44;3066;70;3;29;Harju maakond, Kuusalu vald, Tapurla küla
-70;50;100;9683;97;7;235;Harju maakond, Kuusalu vald, Valkla küla
+30;100;517;45379;88;26;3963;Harju maakond, Anija vald, Arava küla - Kaunissaare küla - Kehra küla - Kehra linn - Lehtmetsa küla - Looküla - Paasiku küla - Pikva küla - Salumetsa küla - Ülejõe küla
+30;100;36;2032;56;3;0;Harju maakond, Anija vald, Arava küla - Pikva küla
+20;200;211;19914;94;15;1594;Harju maakond, Anija vald, Kihmla küla - Parila küla - Salumäe küla - Raasiku alevik - Tõhelgi küla
+20;200;213;17961;84;15;2649;Harju maakond, Kose vald, Ahisilla küla - Kose alevik - Krei küla - Liiva küla - Võlle küla
+30;100;86;7852;91;6;1133;Harju maakond, Kose vald, Kose-Uuemõisa alevik - Krei küla - Tade küla
+20;200;52;1838;35;1;42;Harju maakond, Kose vald, Krei küla
+20;200;124;10029;81;6;95;Harju maakond, Kuusalu vald, Andineeme küla - Põhja küla - Sõitme küla
+20;200;62;5900;95;6;58;Harju maakond, Kuusalu vald, Hara küla
+20;200;41;3582;87;4;8;Harju maakond, Kuusalu vald, Hara küla - Virve küla
+20;200;29;2392;82;3;25;Harju maakond, Kuusalu vald, Joaveski küla
+20;200;66;6302;95;6;196;Harju maakond, Kuusalu vald, Mäepea küla - Põhja küla - Salmistu küla
+20;200;30;2532;84;3;31;Harju maakond, Kuusalu vald, Sigula küla - Vahastu küla
+20;200;44;3066;70;3;29;Harju maakond, Kuusalu vald, Tapurla küla
+70;150;100;9683;97;7;235;Harju maakond, Kuusalu vald, Valkla küla
 90;50;406;39647;98;23;2811;Harju maakond, Raasiku vald, Aruküla alevik - Igavere küla - Järsi küla - Kalesi küla - Kulli küla - Kurgla küla
-20;500;126;9983;79;6;162;Harju maakond, Raasiku vald, Kulli küla
-20;500;420;23403;56;16;806;Ida-Viru maakond, Jõhvi vald, Kahula küla - Sompa küla - Sompa linnaosa - Kohtla küla - Servaääre küla - Vitsiku küla
-100;50;602;53257;88;36;2038;Ida-Viru maakond, Jõhvi vald, Kotinuka küla - Altküla - Konju küla - Martsa küla - Metsamägara küla - Pühajõe küla - Toila alevik - Vaivina küla - Voka alevik - Voka küla
-50;100;153;14335;94;11;748;Ida-Viru maakond, Kohtla-Järve linn, Kukruse linnaosa - Amula küla - Järve küla - Kukruse küla - Paate küla - Peeri küla - Täkumetsa küla
-20;500;142;12695;89;9;608;Ida-Viru maakond, Toila vald, Kohtla küla - Kohtla-Nõmme alev - Kohtla-Uueküla - Roodu küla
-20;500;146;10343;71;6;1011;Järva maakond, Järva vald, Jalalõpe küla - Järva-Jaani alev - Kuksema küla - Metstaguse küla
+20;200;126;9983;79;6;162;Harju maakond, Raasiku vald, Kulli küla
+100;50;603;55652;92;37;2046;Ida-Viru maakond, Jõhvi vald, Edise küla - Kotinuka küla - Altküla - Konju küla - Martsa küla - Metsamägara küla - Pühajõe küla - Toila alevik - Vaivina küla - Voka alevik - Voka küla
+20;200;420;23403;56;16;806;Ida-Viru maakond, Jõhvi vald, Kahula küla - Sompa küla - Sompa linnaosa - Kohtla küla - Servaääre küla - Vitsiku küla
+20;200;121;11933;99;11;1470;Ida-Viru maakond, Kohtla-Järve linn, Kukruse linnaosa - Amula küla - Järve küla - Kukruse küla - Paate küla - Täkumetsa küla
+20;200;142;12695;89;9;608;Ida-Viru maakond, Toila vald, Kohtla küla - Kohtla-Nõmme alev - Kohtla-Uueküla - Roodu küla
+40;50;62;5955;96;6;134;Ida-Viru maakond, Toila vald, Ontika küla - Saka küla
+20;200;146;10343;71;6;1011;Järva maakond, Järva vald, Jalalõpe küla - Järva-Jaani alev - Kuksema küla - Metstaguse küla
 40;50;548;53561;98;30;4596;Jõgeva maakond, Põltsamaa vald, Alastvere küla - Kuningamäe küla - Mällikvere küla - Mõhküla - Pauastvere küla - Põltsamaa linn - Väike-Kamari küla - Võhmanõmme küla
-20;500;39;2916;75;3;14;Lääne maakond, Lääne-Nigula vald
-20;500;25;2429;97;3;37;Lääne maakond, Lääne-Nigula vald, Turvalepa küla
-50;100;178;17859;100;15;1586;Lääne-Viru maakond, Rakvere vald, Aluvere küla - Kaarli küla - Koovälja küla - Näpi alevik - Sõmeru alevik - Vetiku küla
-20;500;31;2606;84;3;911;Lääne-Viru maakond, Rakvere vald, Taaravainu küla - Tõrremäe küla
-20;500;55;5286;96;3;176;Lääne-Viru maakond, Vinni vald, Piira küla - Vetiku küla
-20;500;26;2293;88;2;29;Lääne-Viru maakond, Vinni vald, Vetiku küla
-30;50;123;5953;48;6;57;Lääne-Viru maakond, Viru-Nigula vald, Kaliküla - Kiviküla - Ojaküla
-60;50;171;16766;98;11;468;Pärnu maakond, Lääneranna vald, Hanila küla - Virtsu alevik
-30;50;37;3207;87;3;1121;Rapla maakond, Kehtna vald, Kehtna alevik - Metsaääre küla
-70;50;710;70079;99;45;6830;Tartu maakond, Elva vald, Elva linn - Kalme küla - Kurelaane küla - Käo küla - Käärdi alevik - Külaaseme küla - Majala küla - Metsalaane küla - Mälgi küla - Poole küla - Uderna küla - Vellavere küla
-50;100;57;5351;94;7;32;Tartu maakond, Elva vald, Tamme küla - Vehendi küla
+20;200;39;2916;75;3;14;Lääne maakond, Lääne-Nigula vald
+20;200;25;2429;97;3;37;Lääne maakond, Lääne-Nigula vald, Turvalepa küla
+20;200;173;16888;98;13;1579;Lääne-Viru maakond, Rakvere vald, Aluvere küla - Kaarli küla - Koovälja küla - Näpi alevik - Sõmeru alevik
+20;200;31;2606;84;3;911;Lääne-Viru maakond, Rakvere vald, Taaravainu küla - Tõrremäe küla
+20;200;55;5286;96;3;176;Lääne-Viru maakond, Vinni vald, Piira küla - Vetiku küla
+20;200;26;2293;88;2;29;Lääne-Viru maakond, Vinni vald, Vetiku küla
+30;100;122;5539;45;5;57;Lääne-Viru maakond, Viru-Nigula vald, Kaliküla - Kiviküla - Ojaküla
+60;100;171;16766;98;11;468;Pärnu maakond, Lääneranna vald, Hanila küla - Virtsu alevik
+70;150;710;70079;99;45;6830;Tartu maakond, Elva vald, Elva linn - Kalme küla - Kurelaane küla - Käo küla - Käärdi alevik - Külaaseme küla - Majala küla - Metsalaane küla - Mälgi küla - Poole küla - Uderna küla - Vellavere küla
+50;50;57;5351;94;7;32;Tartu maakond, Elva vald, Tamme küla - Vehendi küla
 40;50;70;6582;94;7;144;Tartu maakond, Peipsiääre vald, Kasepää alevik - Põldmaa küla - Varnja alevik
-30;50;183;16665;91;11;279;Tartu maakond, Peipsiääre vald, Kolkja alevik - Savimetsa küla - Savka küla - Sipelga küla
-20;500;40;3973;99;5;36;Tartu maakond, Tartu vald, Elistvere küla - Raigastvere küla
+30;100;183;16665;91;11;279;Tartu maakond, Peipsiääre vald, Kolkja alevik - Savimetsa küla - Savka küla - Sipelga küla
+20;200;40;3973;99;5;36;Tartu maakond, Tartu vald, Elistvere küla - Raigastvere küla
 40;50;107;10515;98;7;700;Tartu maakond, Tartu vald, Erala küla - Kastli küla - Lähte alevik - Puhtaleiva küla - Sootaga küla - Võibla küla
-20;500;33;3120;95;2;50;Tartu maakond, Tartu vald, Kikivere küla - Väägvere küla
-30;50;61;6125;100;6;433;Tartu maakond, Tartu vald, Kukulinna küla - Puhtaleiva küla - Äksi alevik
-20;500;37;3336;90;5;92;Tartu maakond, Tartu vald, Maramaa küla
+20;200;33;3120;95;2;50;Tartu maakond, Tartu vald, Kikivere küla - Väägvere küla
+30;100;60;5666;94;6;433;Tartu maakond, Tartu vald, Kukulinna küla - Puhtaleiva küla - Äksi alevik
+30;100;49;4849;99;5;338;Tartu maakond, Tartu vald, Kukulinna küla - Saadjärve küla - Salu küla - Soitsjärve küla
+20;200;37;3336;90;5;92;Tartu maakond, Tartu vald, Maramaa küla
 40;50;100;4353;44;2;54;Tartu maakond, Tartu vald, Piiri küla - Saare küla - Tooni küla
-30;50;48;4098;85;4;160;Tartu maakond, Tartu vald, Saadjärve küla - Salu küla - Soitsjärve küla
-60;50;155;15542;100;13;1773;Viljandi maakond, Viljandi vald, Mäeltküla - Peetrimõisa küla - Vana-Võidu küla - Viiratsi alevik
-20;500;21;1944;93;3;69;Viljandi maakond, Viljandi vald, Tohvri küla
-30;50;72;5913;82;7;66;Võru maakond, Setomaa vald, Audjassaare küla - Laossina küla - Lüübnitsa küla
-20;500;42;2241;53;2;21;Võru maakond, Setomaa vald, Beresje küla
+60;100;155;15542;100;13;1773;Viljandi maakond, Viljandi vald, Mäeltküla - Peetrimõisa küla - Vana-Võidu küla - Viiratsi alevik
+20;200;21;1944;93;3;69;Viljandi maakond, Viljandi vald, Tohvri küla
+20;200;71;4123;58;6;55;Võru maakond, Setomaa vald, Audjassaare küla - Lüübnitsa küla
+20;200;42;2241;53;2;21;Võru maakond, Setomaa vald, Beresje küla
